@@ -15,13 +15,13 @@ Node.js application to perform basic CRUD operations on Products PostgreSQL DB t
 
 # Steps to install
 
-1. Extract The Given package
+1. take git clone by using : git clone https://github.com/bgnachiketa/munaffa_Node.git
 
-2. Use "npm install " to generate node_modules at the root of the directory
+2. Use "npm install " to generate node_modules at the root of the directory (munaffa)
 
 3. Create DB using queries DBCREATION.txt and change the DBName in .env of root directory (munaffa)
 
-4. Start: npm run start and use postman collection in case if want to test
+4. Start: npm run start and use postman collection in order to test
 
 5. Use Postman collection with proper Auth "Token" in header part of PostMan(ex: Key:Authorization, val: Bearer "Token") returned after Login
 
