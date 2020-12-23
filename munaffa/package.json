@@ -1,0 +1,20 @@
+{
+  "name": "munaffa",
+  "version": "1.0.0",
+  "description": "crud API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "PORT=3000 node index.js"
+  },
+  "author": "Nachiketa BG",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.1",
+    "pg": "^8.5.1"
+  }
+}
