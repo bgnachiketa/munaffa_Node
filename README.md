@@ -25,11 +25,3 @@ Node.js application to perform basic CRUD operations on Products PostgreSQL DB t
 
 5. Use Postman collection with proper Auth "Token" in header part of PostMan(ex: Key:Authorization, val: Bearer "Token") returned after Login
 
-# NOTE 
-Create a file named .env in the root of the folder and paste the following into it
-
-PSQL_URL=postgres://postgres:postgres@localhost:5432/munaffa
-
-PORT=3000
-
-JWT_TOKEN=QwErTy12#$%
