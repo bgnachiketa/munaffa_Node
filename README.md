@@ -29,5 +29,7 @@ Node.js application to perform basic CRUD operations on Products PostgreSQL DB t
 Create a file named .env in the root of the folder and paste the following into it
 
 PSQL_URL=postgres://postgres:postgres@localhost:5432/munaffa
+
 PORT=3000
+
 JWT_TOKEN=QwErTy12#$%
